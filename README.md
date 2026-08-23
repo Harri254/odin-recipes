@@ -1,3 +1,3 @@
 # odin-recipes
 
-The recipes are here
+The recipes are here.
